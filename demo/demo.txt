@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>燕植物语</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="header w">
+        <div class="logo">
+            <img src="./image/logo.png" alt="logo" style="height: 40px;">
+            <h1 class="title">燕植物语</h1>
+        </div>
+        <div class="nav">
+            <ul>
+                <li><a href="">桃李园</a></li>
+                <li><a href="">木成蹊</a></li>
+                <li><a href="">花名片</a></li>
+            </ul>
+        </div>
+        <div class="search">
+            <input type="text" value="请输入关键词">
+            <button></button>
+        </div>
+        <div class="user">
+            <img src="./image/ogb.png" alt="用户头像">
+            <p>凤凰院凶真</p>
+        </div>
+    </div>
+    <div class="banner">
+        <div class="w">
+            <div class="subnav">
+                <ul>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                    <li><a href="#">产品介绍</a><img src="./image/arro1.png" alt=""></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="goods w">
+        <h3>精品推荐</h3>
+        <ul>
+            <li><a href="#">燕大印象</a></li>
+            <li><a href="#">燕大印象</a></li>
+            <li><a href="#">燕大印象</a></li>
+            <li><a href="#">燕大印象</a></li>
+            <li><a href="#">燕大印象</a></li>
+        </ul>
+        <a href="#修改推荐" class="mod">修改推荐</a>
+    </div>
+    <div class="box w">
+        <div class="box_hd">
+            <h3>精品推荐</h3>
+            <a href="#">查看全部</a>
+        </div>
+        <div class="box_bd">
+            <ul class="clearfix">
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+                <li><img src="./image/nightsky.png" alt="">
+                    <h4>夜幕降临，看斗转星移下的燕大</h4>
+                    <h5>2023/11/21</h5>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    <div class="footer">
+        <div class="w">
+            <div class="copyright">
+                <img src="./image/logo.png" alt="">
+                <p>燕植物语是一款面向燕山大学的植物识别检索交流软件，针对当前同类应用识别易出错和<br>
+                    功能较单调的问题，应用深度学习图像识别技术以提高识别准确率；增加“多样导览”和“植友<br>
+                    交流”的功能增添软件的趣味性。用户可通过文字、图片及位置信息等多种方式进行植物信息的<br>
+                    查询。学生可以通过该平台进行植物领养和交换，在加强校友之间联系的同时促进国家劳动教育<br>
+                    政策的落实；通过“种子行动”减少碳足迹，助力国家早日实现“双碳”目标。</p>
+            </div>
+            <div class="links">
+                <dl>
+                    <dt>关于燕植物语</dt>
+                    <dd><a href="#">关于</a></dd>
+                    <dd><a href="#">管理团队</a></dd>
+                    <dd><a href="#">客服服务</a></dd>
+                    <dd><a href="#">帮助</a></dd>
+                    <dd><a href="#">加入我们</a></dd>
+                </dl>
+                <dl>
+                    <dt>新手指南</dt>
+                    <dd><a href="#">如何注册</a></dd>
+                    <dd><a href="#">管理团队</a></dd>
+                    <dd><a href="#">客服服务</a></dd>
+                    <dd><a href="#">帮助</a></dd>
+                    <dd><a href="#">加入我们</a></dd>
+                </dl>
+                <dl>
+                    <dt>合作伙伴</dt>
+                    <dd><a href="#">合作机构</a></dd>
+                    <dd><a href="#">合作导师</a></dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
